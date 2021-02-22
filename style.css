@@ -1,0 +1,12 @@
+.design,.clients, .main-card{
+    margin-top: 50px;
+}
+.round{
+    width: 50px;
+    clip-path: circle();
+}
+.line{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
